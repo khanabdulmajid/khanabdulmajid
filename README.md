@@ -8,7 +8,7 @@
 
 Here are some of the projects I'm proud of:
 
-- <font color: "green"> **Predictive Analytics for E-commerce** </font>: Build a recommendation system that predicts products a user might be interested in based on their past behavior and preferences. You can use collaborative filtering or content-based - recommendation techniques.
+- **Predictive Analytics for E-commerce**: Build a recommendation system that predicts products a user might be interested in based on their past behavior and preferences. You can use collaborative filtering or content-based - recommendation techniques.
 
 - **Credit Risk Assessment**: Create a credit risk assessment model that helps banks and financial institutions determine the creditworthiness of loan applicants. This project can involve building a classification model using historical data.
 
