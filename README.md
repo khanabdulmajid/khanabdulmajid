@@ -14,7 +14,7 @@ Here are some of the projects I'm proud of:
 
 - **Customer Churn Prediction**: Develop a model to predict customer churn for a subscription-based service like a streaming platform. By analyzing user behavior and demographics, you can identify potential churners and take preventive actions.
 
-- **Image Classification for food: Build a deep learning model that can classify food images (101 diff. types).
+- **Image Classification for food**: Build a deep learning model that can classify food images (101 diff. types).
 
 You can explore more of my work on https://github.com/khanabdulmajid.
 
