@@ -27,7 +27,7 @@ You can explore more of my work on https://github.com/khanabdulmajid.
 
 ## My Skills
 
-- **Programming Languages**: Pyhton, C++, java
+- **Programming Languages**: Python, C++, java
 - **Technologies**: Tensorflow, Django, Numpy, Pandas, PowerBI.
 
 Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections.
