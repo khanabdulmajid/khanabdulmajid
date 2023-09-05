@@ -10,7 +10,8 @@ Here are some of the projects I'm proud of:
 
 - **Predictive Analytics for E-commerce**: Built a recommendation system that predicts products a user might be interested in based on their past behavior and preferences.
 
-- **Credit Risk Assessment**: Created a credit risk assessment model that helps banks and financial institutions determine the creditworthiness of loan applicants. 
+- **Credit Risk Assessment**: Created a credit risk assessment model that helps banks and financial institutions determine the creditworthiness of loan applicants.
+   
 - **Customer Churn Prediction**: Developed a model to predict customer churn for a subscription-based service like a streaming platform. By analyzing user behavior and demographics, I indentified potential churners and suggested preventive actions.
 
 - **Image Classification for food**: Built a deep learning model that can classify food images (101 diff. types).
