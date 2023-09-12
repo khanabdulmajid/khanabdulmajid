@@ -20,8 +20,8 @@ You can explore more of my work on https://github.com/khanabdulmajid. [coming so
 
 ## My Skills
 
-- **Programming Languages**: [![My Skills](https://skillicons.dev/icons?i=python,c++,java)](https://linkedin.com/AbdulMajidKhan1997)
-- **Technologies**: [![Technologies](https://skillicons.dev/icons?i=tensorflow,django,numpy,pandas,powerbi)]([https://skillicons.dev](https://linkedin.com/AbdulMajidKhan1997))
+- **Programming Languages**: [![My Skills](https://skillicons.dev/icons?i=python,cpp,java)](https://linkedin.com/AbdulMajidKhan1997)
+- **Technologies**: [![Technologies](https://skillicons.dev/icons?i=tensorflow,django)]([https://skillicons.dev](https://linkedin.com/AbdulMajidKhan1997))
 
 Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections.
 
