@@ -10,7 +10,7 @@ Here are some of the projects I'm proud of:
 
 - **Predictive Analytics for E-commerce**: Built a recommendation system that predicts products a user might be interested in based on their past behavior and preferences.
 
-- **Credit Risk Assessment**: Created a credit risk assessment model that helps banks and financial institutions determine the creditworthiness of loan applicants.
+- **PAN Card (Permanent Account Number)  Tempering Detection**: Created a PAN card tempering detector model that helps banks and financial institutions detecting whether the ID(pan card) provided to them is original or not.
    
 - **Customer Churn Prediction**: Developed a model to predict customer churn for a subscription-based service like a streaming platform. By analyzing user behavior and demographics, I indentified potential churners and suggested preventive actions.
 
