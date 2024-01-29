@@ -1,6 +1,6 @@
 ## About Me
 
-- 🌱 I'm currently learning Deep Learning.
+- 🌱 I'm Machine Learning Practitioner.
 - 💼 I work at Infosys.Ltd as a Data Analyst.
 - 📫 How to reach me: https://www.linkedin.com/in/abdulmajidkhan1997/
 
