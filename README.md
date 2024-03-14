@@ -21,6 +21,6 @@ You can explore more of my work on https://github.com/khanabdulmajid. [coming so
 ## My Skills
 
 - **Programming Languages**: [![My Skills](https://skillicons.dev/icons?i=python,cpp,java)](https://linkedin.com/in/AbdulMajidKhan1997)
-- **Technologies**: [![Technologies](https://skillicons.dev/icons?i=tensorflow,django,mysql,nosql)](https://linkedin.com/in/AbdulMajidKhan1997)
+- **Technologies**: [![Technologies](https://skillicons.dev/icons?i=tensorflow,django,mysql&perline=3)](https://linkedin.com/in/AbdulMajidKhan1997)
 
 Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections.
