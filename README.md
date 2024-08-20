@@ -27,15 +27,20 @@ Key Responsibilities:
   - Optimized the detection algorithm to improve speed and accuracy.
   - Evaluated the system's performance using precision and recall metrics.
 
-##### Technologies and Tools: Python, OpenCV, Haar Cascade Classifier, NumPy.
+#### 3. Generative Adversarial Networks for Handwritten Digit Synthesis
+##### Project Overview: Designed and implemented a GAN architecture using Convolutional Neural Networks (CNNs) to synthesize realistic handwritten digit images based on the MNIST dataset.
+Key Achievements:
 
-#### 3. Predictive Analytics for E-commerce: Built a recommendation system that predicts products a user might be interested in based on their past behavior and preferences.
+  - Successfully trained the GAN to generate high-quality digit images, following best practices outlined in Soumith Chintala's research paper. The project demonstrated a robust understanding of GAN architecture and its application in image generation.
 
-#### 4. PAN Card (Permanent Account Number)  Tempering Detection: Created a PAN card tempering detector model that helps banks and financial institutions detecting whether the ID(pan card) provided to them is original or not.
-   
-#### 5. Customer Churn Prediction**: Developed a model to predict customer churn for a subscription-based service like a streaming platform. By analyzing user behavior and demographics, I indentified potential churners and suggested preventive actions.
+#### 4. Deep Convolutional GANs for Colour Image Generation
+##### Project Overview: Developed a Deep Convolutional GAN (DCGAN) architecture to generate realistic color photographs using the CIFAR-10 dataset.
+Key Achievements:
 
-#### 6. [Image Classification for food](https://github.com/khanabdulmajid/tensorflow_deep_learning/blob/main/07_Project_1_Food_Vision.ipynb): Built a deep learning model that can classify food images (101 diff. types).
+  - Implemented advanced training techniques such as batch normalization and leaky ReLU activations, significantly enhancing the stability and output quality of the GAN. This project further honed skills in handling complex color data in GANs.
+ 
+
+#### 5. [Image Classification for food](https://github.com/khanabdulmajid/tensorflow_deep_learning/blob/main/07_Project_1_Food_Vision.ipynb): Built a deep learning model that can classify food images (101 diff. types).
 
 You can explore more of my work on https://github.com/khanabdulmajid.
 
