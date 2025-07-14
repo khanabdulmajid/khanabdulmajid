@@ -1,7 +1,7 @@
 ## About Me
 
 - 🌱 I'm a Machine Learning Practitioner.
-- 💼 I have worked at Infosys.Ltd as a Data Developer.
+- 💼 I have worked at Infosys.Ltd as a Data Engnieer.
 - 📫 How to reach me: https://www.linkedin.com/in/abdulmajidkhan1997/
 
 ## My Projects
