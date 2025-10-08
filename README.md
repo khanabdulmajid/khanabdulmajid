@@ -1,48 +1,55 @@
 ## About Me
 
 - 🌱 I'm a Machine Learning Practitioner.
-- 💼 I have worked at Infosys.Ltd as a Data Engnieer.
+- 💼 I have worked at Infosys.Ltd as a Data Developer.
 - 📫 How to reach me: https://www.linkedin.com/in/abdulmajidkhan1997/
+## 🚧 Featured Projects
 
-## My Projects
+Here are some of the projects I’m proud of:
 
-### Here are some of the projects I'm proud of:
+### 1. 🏥 Health Prediction Using MEPS Dataset
+**Overview:** Built a complete **Machine Learning pipeline** using the **Medical Expenditure Panel Survey (MEPS)** dataset to predict health outcomes based on demographic and medical attributes.  
+**Highlights:**  
+- Performed **data analysis and feature engineering** to identify key predictors of health status.  
+- Handled **class imbalance** using **ADASYN** for improved minority class representation.  
+- Trained and optimized an **XGBoost Classifier** with `use_label_encoder=False` and `eval_metric='logloss'`.  
+- Evaluated performance using **ROC-AUC, precision, recall, and F1-score**.  
+- Prepared the model for **Django deployment** with API integration for real-time predictions.  
+**Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, ADASYN, Matplotlib, Seaborn, Django  
 
-#### 1. Dog Breed Classifier using Convolutional Neural Network(CNN)
-##### Project Overview: Developed a machine learning model to classify dog breeds from images with high accuracy. The project involved data preprocessing, model building, and deployment.
-  - Collected and preprocessed a dataset of dog images from various sources.
-  - Built and fine-tuned a convolutional neural network (CNN) using TensorFlow and Keras.
-  - Implemented data augmentation techniques to enhance the model's performance.
-  - Evaluated the model using accuracy, precision, recall, and F1-score metrics.
-  - Deployed the model using Flask for creating a user-friendly web application interface.
-##### Technologies and Tools: Python, TensorFlow, Keras, OpenCV, Flask.
+---
 
-#### 2. Vehicle Detection Using OpenCV's Haar Casdcade
-##### Project Overview: Developed a real-time car detection system using OpenCV and cascade classifiers. The project aimed to detect cars in images and video streams with high accuracy.
-Key Responsibilities:
+### 2. 🧭 Machine Learning Dashboard (Django)
+**Overview:** Developed an interactive **ML Dashboard** to visualize insights and deploy machine learning models through a **Django web interface**.  
+**Highlights:**  
+- Migrated an existing **Streamlit dashboard** into **Django** for better customization and scalability.  
+- Integrated a pre-trained **XGBoost model** for on-demand predictions.  
+- Embedded an **admin dashboard HTML template** for modern UI/UX.  
+- Implemented **form-based file uploads**, result visualization, and API endpoints for automation.  
+**Tech Stack:** Python, Django, HTML/CSS, JavaScript, Bootstrap, XGBoost  
 
-  - Gathered and labeled a dataset of car images for training the cascade classifier.
-  - Created and trained the cascade classifier using OpenCV.
-  - Implemented a real-time car detection system that processes video streams.
-  - Optimized the detection algorithm to improve speed and accuracy.
-  - Evaluated the system's performance using precision and recall metrics.
+---
 
-#### 3. Generative Adversarial Networks for Handwritten Digit Synthesis
-##### Project Overview: Designed and implemented a GAN architecture using Convolutional Neural Networks (CNNs) to synthesize realistic handwritten digit images based on the MNIST dataset.
-Key Achievements:
+### 3. 🐶 Dog Breed Classifier (CNN)
+**Overview:** Designed a **Convolutional Neural Network (CNN)** to classify dog breeds from image data with high accuracy.  
+**Highlights:**  
+- Preprocessed and augmented image datasets for robust model training.  
+- Fine-tuned CNN architecture using **TensorFlow** and **Keras**.  
+- Deployed via **Flask** for a user-friendly web interface.  
+**Tech Stack:** Python, TensorFlow, Keras, OpenCV, Flask  
 
-  - Successfully trained the GAN to generate high-quality digit images, following best practices outlined in Soumith Chintala's research paper. The project demonstrated a robust understanding of GAN architecture and its application in image generation.
+---
 
-#### 4. Deep Convolutional GANs for Colour Image Generation
-##### Project Overview: Developed a Deep Convolutional GAN (DCGAN) architecture to generate realistic color photographs using the CIFAR-10 dataset.
-Key Achievements:
+### 4. 🎨 Deep Convolutional GAN for Color Image Generation
+**Overview:** Implemented a **DCGAN** to generate realistic color images using the **CIFAR-10 dataset**.  
+**Highlights:**  
+- Applied **batch normalization** and **Leaky ReLU** for improved training stability.  
+- Gained deep understanding of **GAN architecture** and training challenges.  
+**Tech Stack:** Python, TensorFlow, Keras  
 
-  - Implemented advanced training techniques such as batch normalization and leaky ReLU activations, significantly enhancing the stability and output quality of the GAN. This project further honed skills in handling complex color data in GANs.
- 
+---
 
-#### 5. [Image Classification for food](https://github.com/khanabdulmajid/tensorflow_deep_learning/blob/main/07_Project_1_Food_Vision.ipynb): Built a deep learning model that can classify food images (101 diff. types).
-
-You can explore more of my work on https://github.com/khanabdulmajid.
+> 🧠 Explore more of my work on [GitHub](https://github.com/khanabdulmajid)
 
 ## My Skills
 
