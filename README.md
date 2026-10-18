@@ -14,7 +14,7 @@ Backend Engineer with over 5 years of experience building reliable REST APIs, ev
 
 Here are a few backend systems and projects I've engineered:
 
-### 1. 🎟️ Cross-Border WhatsApp BOT Coupon Management System
+### 1. 🎟️ WhatsApp BOT Coupon Management System
 **Overview:** Engineered an automated backend coupon and promotional rewards distribution system connecting WhatsApp bot flows with enterprise partner ecosystems.
 **Highlights:**
 - Built high-performance RESTful APIs and webhooks using **FastAPI** for real-time validation and claim triggers.
