@@ -1,59 +1,63 @@
-## About Me
+# Hi there, I'm Abdul Majid Khan 👋
 
-- 🌱 I'm a Machine Learning Practitioner.
-- 💼 I have worked at Infosys.Ltd as a Data Developer.
-- 📫 How to reach me: https://www.linkedin.com/in/abdulmajidkhan1997/
-## 🚧 Featured Projects
+Backend Engineer with over 5 years of experience building reliable REST APIs, event-driven microservices and high-performance data pipelines. Experienced in **FastAPI, Django/DRF, Celery, Redis, PostgreSQL and Webhook architectures**, with a focus on enterprise platform integrations, real-time telemetry modules and CI/CD automation on Linux environments.
 
-Here are some of the projects I’m proud of:
-
-### 1. 🏥 Health Prediction Using MEPS Dataset
-**Overview:** Built a complete **Machine Learning pipeline** using the **Medical Expenditure Panel Survey (MEPS)** dataset to predict health outcomes based on demographic and medical attributes.  
-**Highlights:**  
-- Performed **data analysis and feature engineering** to identify key predictors of health status.  
-- Handled **class imbalance** using **ADASYN** for improved minority class representation.  
-- Trained and optimized an **XGBoost Classifier** with `use_label_encoder=False` and `eval_metric='logloss'`.  
-- Evaluated performance using **ROC-AUC, precision, recall, and F1-score**.  
-- Prepared the model for **Django deployment** with API integration for real-time predictions.  
-**Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, ADASYN, Matplotlib, Seaborn, Django  
+- 💼 **Current Role:** Associate Software Engineer (Python)
+- 🏢 **Previous Role:** Senior Systems Engineer at Infosys Ltd.
+- ⚡ **Core Specialties:** Scalable RESTful APIs, Microservices, Async Workflows, Databases & CI/CD Pipelines
+- 📬 **LinkedIn:** [linkedin.com/in/AbdulMajidKhan1997](https://www.linkedin.com/in/abdulmajidkhan1997/)
+- 📧 **Email:** abdulmajid.khn@gmail.com
 
 ---
 
-### 2. 🧭 Machine Learning Dashboard (Django)
-**Overview:** Developed an interactive **ML Dashboard** to visualize insights and deploy machine learning models through a **Django web interface**.  
-**Highlights:**  
-- Migrated an existing **Streamlit dashboard** into **Django** for better customization and scalability.  
-- Integrated a pre-trained **XGBoost model** for on-demand predictions.  
-- Embedded an **admin dashboard HTML template** for modern UI/UX.  
-- Implemented **form-based file uploads**, result visualization, and API endpoints for automation.  
-**Tech Stack:** Python, Django, HTML/CSS, JavaScript, Bootstrap, XGBoost  
+## 🚧 Featured Systems & Projects
+
+Here are a few backend systems and projects I've engineered:
+
+### 1. 🎟️ Cross-Border WhatsApp BOT Coupon Management System
+**Overview:** Engineered an automated backend coupon and promotional rewards distribution system connecting WhatsApp bot flows with enterprise partner ecosystems.
+**Highlights:**
+- Built high-performance RESTful APIs and webhooks using **FastAPI** for real-time validation and claim triggers.
+- Implemented **atomic transaction handling** for automated code generation, user assignment and redemption verification.
+- Integrated **MistQL** and **JSONPath** tools for dynamic context extraction across complex chatbot dialog payloads.
+- **Tech Stack:** Python, FastAPI, PostgreSQL, Redis, Webhooks, Docker
 
 ---
 
-### 3. 🐶 Dog Breed Classifier (CNN)
-**Overview:** Designed a **Convolutional Neural Network (CNN)** to classify dog breeds from image data with high accuracy.  
-**Highlights:**  
-- Preprocessed and augmented image datasets for robust model training.  
-- Fine-tuned CNN architecture using **TensorFlow** and **Keras**.  
-- Deployed via **Flask** for a user-friendly web interface.  
-**Tech Stack:** Python, TensorFlow, Keras, OpenCV, Flask  
+### 2. 📊 Internal Billing & Telemetry Service Module
+**Overview:** Created an automated usage-based client billing and telemetry service built with **Django REST Framework**.
+**Highlights:**
+- Built middleware and background task processing routines using **Celery & Redis** to track API consumption metrics in real time.
+- Engineered automated calculation logic to aggregate payload metrics and generate accurate usage-based client invoices.
+- **Tech Stack:** Python, Django REST Framework, PostgreSQL, Celery, Redis, Postman
 
 ---
 
-### 4. 🎨 Deep Convolutional GAN for Color Image Generation
-**Overview:** Implemented a **DCGAN** to generate realistic color images using the **CIFAR-10 dataset**.  
-**Highlights:**  
-- Applied **batch normalization** and **Leaky ReLU** for improved training stability.  
-- Gained deep understanding of **GAN architecture** and training challenges.  
-**Tech Stack:** Python, TensorFlow, Keras  
+### 3. 📑 High-Throughput Modular Data Ingestion Pipeline
+**Overview:** Developed a modular Python data ingestion and parsing pipeline to automate legacy manual data ingestion workflows.
+**Highlights:**
+- Designed automated ETL scripts that extract, clean and map multi-source Excel files directly into relational databases.
+- Replaced error-prone legacy manual processes, significantly accelerating data ingestion throughput.
+- **Tech Stack:** Python, Pandas, SQL Server, MySQL, ETL, Linux / Bash
 
 ---
 
-> 🧠 Explore more of my work on [GitHub](https://github.com/khanabdulmajid)
+### 4. 🚀 SURBO-AI Platform Integration & Webhook Services
+**Overview:** Architected and deployed scalable REST APIs and webhooks to integrate conversational AI platform components across enterprise social media and partner platforms.
+**Highlights:**
+- Handled critical enterprise escalations by rapidly building and deploying hotfixes and production-ready APIs under tight SLAs.
+- Configured automated CI/CD deployment pipelines to **Ubuntu/Linux** servers using **GitHub Actions and Jenkins**.
+- **Tech Stack:** Python, FastAPI, Django, GitHub Actions, Jenkins, Ubuntu, Nginx
 
-## My Skills
+---
 
-- **Programming Languages**: [![My Skills](https://skillicons.dev/icons?i=py,cpp,java)](https://linkedin.com/in/AbdulMajidKhan1997)
-- **Technologies**: [![Technologies](https://skillicons.dev/icons?i=tensorflow,django,mysql,mongodb&theme=dark)](https://linkedin.com/in/AbdulMajidKhan1997)
+## 🛠️ Tech Stack & Toolkit
 
-Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections.
+- **Languages:** [![Languages](https://skillicons.dev/icons?i=py,bash,cpp)](https://linkedin.com/in/AbdulMajidKhan1997)
+- **Frameworks & Web:** [![Frameworks](https://skillicons.dev/icons?i=fastapi,django,flask)](https://linkedin.com/in/AbdulMajidKhan1997)
+- **Databases & Caching:** [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://linkedin.com/in/AbdulMajidKhan1997)
+- **DevOps & Tools:** [![DevOps](https://skillicons.dev/icons?i=docker,githubactions,jenkins,linux,aws,postman,git)](https://linkedin.com/in/AbdulMajidKhan1997)
+
+---
+
+Feel free to connect or drop a message if you'd like to collaborate on backend systems, API infrastructure, or microservices!
